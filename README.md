@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!--
 👨🏼‍💻 building [murphee][murphee]  
 🧠 learning [svelte][svelte], [tailwind][tailwind], [fauna][fauna]  
 💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
@@ -41,3 +42,4 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/bradgarropy
 [linkedin]: https://linkedin.com/in/bradgarropy
 [npm]: https://npmjs.com/~bradgarropy
+-->
