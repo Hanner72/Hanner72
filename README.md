@@ -29,7 +29,7 @@
 [![](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=Blender&logoColor=E87D0D&labelColor=black)](https://www.blender.org/)
 [![](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=31A8FF&labelColor=black)](https://www.photoshop.com/de)
 [![](https://img.shields.io/badge/-Microsoft_OneNote-7719AA?style=flat-square&logo=Microsoft-OneNote&logoColor=7719AA&labelColor=black)](https://www.photoshop.com/de)
-[![](https://img.shields.io/badge/-SketchUp-F62737?style=flat-square&logo=SketchUp&logoColor=F62737&labelColor=black)](https://www.photoshop.com/de)
+[![](https://img.shields.io/badge/-SketchUp-F62737?style=flat-square&logo=Sketch-Up&logoColor=F62737&labelColor=black)](https://www.photoshop.com/de)
 
 [![](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=C51A4A&labelColor=black)](https://www.photoshop.com/de)
 
