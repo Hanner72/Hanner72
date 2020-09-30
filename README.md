@@ -14,8 +14,8 @@
 
 ### Languages und Tools
 
-[![](https://img.shields.io/badge/Blender-Test-E87D0D?style=flat-square&logo=Blender&logoColor=E87D0D&labelColor=black)](http://blender.com) | 
-[![](https://img.shields.io/badge/-Bootstrap-5b4282?style=flat-square&logo=Bootstrap&logoColor=5b4282&labelColor=FFFFFF)](http://blender.com)
+[![](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=Blender&logoColor=E87D0D&labelColor=black)](http://blender.com) | 
+[![](https://img.shields.io/badge/-Bootstrap-5b4282?style=flat-square&logo=Bootstrap&logoColor=5b4282&labelColor=black)](http://blender.com)
 
 ### Hi there 👋
 
