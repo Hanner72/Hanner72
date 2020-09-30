@@ -20,6 +20,8 @@
 [![](https://img.shields.io/badge/-Git-F03C2E?style=flat-square&logo=Git&logoColor=F03C2E&labelColor=black)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-HTML5-F16529?style=flat-square&logo=HTML5&logoColor=F16529&labelColor=black)](https://wiki.selfhtml.org/wiki/HTML/Tutorials/HTML5)
 [![](https://img.shields.io/badge/-MySQL-0F6A91?style=flat-square&logo=MySQL&logoColor=0F6A91&labelColor=EBAA40)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/-Adobe Photoshop-0F6A91?style=flat-square&logo=Adobe Photoshop&logoColor=0F6A91&labelColor=EBAA40)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/-PHP-0F6A91?style=flat-square&logo=PHP&logoColor=0F6A91&labelColor=EBAA40)](https://www.mysql.com/)
 
 ### Hi there 👋
 
