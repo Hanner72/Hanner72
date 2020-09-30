@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/-Git-F03C2E?style=flat-square&logo=Git&logoColor=F03C2E&labelColor=black)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-HTML5-F16529?style=flat-square&logo=HTML5&logoColor=F16529&labelColor=black)](https://wiki.selfhtml.org/wiki/HTML/Tutorials/HTML5)
 [![](https://img.shields.io/badge/-MySQL-0F6A91?style=flat-square&logo=MySQL&logoColor=0F6A91&labelColor=EBAA40)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/-Adobe_Photoshop-80B5E2?style=flat-square&logo=Adobe_Photoshop&logoColor=6181B6&labelColor=black)](https://www.photoshop.com/de)
+[![](https://img.shields.io/badge/-Adobe_Photoshop-80B5E2?style=flat-square&logo=adobephotoshop&logoColor=6181B6&labelColor=black)](https://www.photoshop.com/de)
 [![](https://img.shields.io/badge/-PHP-6181B6?style=flat-square&logo=PHP&logoColor=6181B6&labelColor=black)](https://www.php.net/)
 
 ### Hi there 👋
