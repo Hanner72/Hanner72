@@ -18,6 +18,8 @@
 [![](https://img.shields.io/badge/-Bootstrap-5b4282?style=flat-square&logo=Bootstrap&logoColor=5b4282&labelColor=dbdbdb)](https://getbootstrap.com/)
 [![](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=Bulma&logoColor=00D1B2&labelColor=black)](https://bulma.io/)
 [![](https://img.shields.io/badge/-Git-F03C2E?style=flat-square&logo=Git&logoColor=F03C2E&labelColor=black)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-HTML5-F16529?style=flat-square&logo=HTML5&logoColor=F16529&labelColor=black)](https://wiki.selfhtml.org/wiki/HTML/Tutorials/HTML5)
+[![](https://img.shields.io/badge/My-SQL-0F6A91?style=flat-square&logo=MySQL&logoColor=F16529&labelColor=EBAA40)](https://www.mysql.com/)
 
 ### Hi there 👋
 
