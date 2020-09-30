@@ -16,7 +16,7 @@
 
 [![](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=Blender&logoColor=E87D0D&labelColor=black)](https://www.blender.org/)
 [![](https://img.shields.io/badge/-Bootstrap-5b4282?style=flat-square&logo=Bootstrap&logoColor=5b4282&labelColor=dbdbdb)](https://getbootstrap.com/)
-[![](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=Bootstrap&logoColor=00D1B2&labelColor=black)](https://bulma.io/)
+[![](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=Bulma&logoColor=00D1B2&labelColor=black)](https://bulma.io/)
 
 ### Hi there 👋
 
