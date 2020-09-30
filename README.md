@@ -15,7 +15,7 @@
 ### Languages und Tools
 
 [![](https://img.shields.io/badge/-Blender-%E87D0D?style=flat-square&logo=Blender&logoColor=FFFFFF)](http://blender.com)
-[![](https://img.shields.io/badge/-Bootstrap-%23E44D27?style=flat-square&logo=Bootstrap&logoColor=E87D0D)](http://blender.com)
+[![](https://img.shields.io/badge/-Bootstrap-%23E44D27?style=flat-square&logo=Bootstrap&logoColor=5B4282)](http://blender.com)
 
 ### Hi there 👋
 
