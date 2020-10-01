@@ -42,7 +42,7 @@
 ### Hi there 👋
 
 [![](https://img.shields.io/badge/JSFiddle-dannerbam-0084FF?style=flat-square&logo=JSFiddle&logoColor=0084FF&labelColor=black)](https://jsfiddle.net/user/dannerbam)
-[![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue?style=flat-square&logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ayushkumar25/)
+[![](https://img.shields.io/badge/GitHub-ayushkumar25-181717?style=flat-square&logo=GitHub&logoColor=181717&labelColor=black)](https://www.linkedin.com/in/ayushkumar25/)
 [![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:ayush2608@gmail.com)
 [![](https://img.shields.io/badge/Telegram-%40ayush__1704258-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/ayush_1704258)
 [![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/ayushkumar_25)
