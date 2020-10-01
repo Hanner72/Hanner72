@@ -16,7 +16,7 @@
 ### Languages
 
 [![](https://img.shields.io/badge/-Bootstrap-5b4282?style=flat-square&logo=Bootstrap&logoColor=5b4282&labelColor=dbdbdb)](https://getbootstrap.com/)
-[![](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=Bulma&logoColor=ffffff&labelColor=00D1B2)](https://bulma.io/)
+[![](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=Bulma&logoColor=00D1B2&labelColor=black)](https://bulma.io/)
 [![](https://img.shields.io/badge/-HTML5-F16529?style=flat-square&logo=HTML5&logoColor=F16529&labelColor=black)](https://wiki.selfhtml.org/wiki/HTML/Tutorials/HTML5)
 [![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=777BB4&labelColor=black)](https://www.php.net/)
 
@@ -42,7 +42,7 @@
 ### Hi there 👋
 
 [![](https://img.shields.io/badge/JSFiddle-dannerbam-0084FF?style=flat-square&logo=JSFiddle&logoColor=0084FF&labelColor=black)](https://jsfiddle.net/user/dannerbam)
-[![](https://img.shields.io/badge/GitHub-Hanner72-999999?style=flat-square&logo=GitHub&logoColor=181717&labelColor=ffffff)](https://github.com/Hanner72)
+[![](https://img.shields.io/badge/GitHub-Hanner72-999999?style=flat-square&logo=GitHub&logoColor=ffffff&labelColor=181717)](https://github.com/Hanner72)
 [![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:ayush2608@gmail.com)
 [![](https://img.shields.io/badge/Telegram-%40ayush__1704258-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/ayush_1704258)
 [![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/ayushkumar_25)
