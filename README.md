@@ -10,6 +10,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanner72&layout=compact" alt="hanner72" /></p>
 
+<img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortFlat&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Wink&eyebrowType=UpDown&mouthType=Tongue&skinColor=Light'
+/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanner72&show_icons=true" alt="hanner72" /></p>
 
