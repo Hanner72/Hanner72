@@ -26,6 +26,8 @@
 [![](https://img.shields.io/badge/-MySQL-0F6A91?style=flat-square&logo=MySQL&logoColor=0F6A91&labelColor=EBAA40)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=FB7A24&labelColor=black)](https://www.mysql.com/)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dsads)  
+
 ### Software und Hardware
 
 [![](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=Blender&logoColor=E87D0D&labelColor=black)](https://www.blender.org/)
