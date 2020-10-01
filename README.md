@@ -43,8 +43,8 @@
 
 [![](https://img.shields.io/badge/JSFiddle-dannerbam-0084FF?style=flat-square&logo=JSFiddle&logoColor=0084FF&labelColor=black)](https://jsfiddle.net/user/dannerbam)
 [![](https://img.shields.io/badge/GitHub-Hanner72-999999?style=flat-square&logo=GitHub&logoColor=ffffff&labelColor=181717)](https://github.com/Hanner72)
-[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:ayush2608@gmail.com)
-[![](https://img.shields.io/badge/Telegram-%40ayush__1704258-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/ayush_1704258)
+[![](https://img.shields.io/badge/Gmail-johann.danner%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:johann.danner@gmail.com)
+[![](https://img.shields.io/badge/Telegram-%40hanner72-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/hanner72)
 [![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/ayushkumar_25)
 
 https://shields.io/
